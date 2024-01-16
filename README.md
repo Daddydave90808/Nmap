@@ -3,7 +3,7 @@
 
 To run the script:
 
-Open a terminal.
-Navigate to the directory where you saved the script.
-Run python nmap_script.py.
+1. Open a terminal.
+2. Navigate to the directory where you saved the script.
+3. Run python nmap_script.py.
 
